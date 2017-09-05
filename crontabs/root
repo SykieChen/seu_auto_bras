@@ -1,0 +1,4 @@
+# * * * * * /etc/ctdial.sh
+# * * * * * (sleep 20 && /etc/ctdial.sh)
+# * * * * * (sleep 40 && /etc/ctdial.sh)
+0 4 * * 2 reboot
